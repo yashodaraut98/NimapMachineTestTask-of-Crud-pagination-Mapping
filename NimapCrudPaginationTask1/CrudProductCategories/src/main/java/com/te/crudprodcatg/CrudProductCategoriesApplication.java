@@ -1,0 +1,13 @@
+package com.te.crudprodcatg;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CrudProductCategoriesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CrudProductCategoriesApplication.class, args);
+	}
+
+}
